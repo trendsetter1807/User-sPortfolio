@@ -55,7 +55,9 @@ html{
 body{
     margin: var(--header-height) 0 0 0;
     font-family: var(--body-font);
-    font-size: var(--normal-font-size);
+    /* font-size: var(--normal-font-size); */
+    font-size:large;
+    font-weight: 200;
     font-weight: var(--font-medium);
     color: var(--text-color);
     line-height: 1.6;
@@ -237,7 +239,7 @@ img{
     bottom: 0;
     width: 450px;
     height: 450px; */
-} */
+ */
 /* .about__img img{
     width: 100px;
 } */
@@ -501,3 +503,6 @@ img{
         right: 24%;
     }
 }
+
+
+
